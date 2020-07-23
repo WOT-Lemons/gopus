@@ -1,6 +1,6 @@
 // +build !amd64,!386,cgo
 
-package gopus // import "github.com/TLMcNulty/gopus"
+package gopus // import "github.com/WOT-Lemons/gopus"
 
 // #cgo !nopkgconfig pkg-config: opus
 //
